@@ -1,0 +1,11 @@
+CollarDataID,RecordDate,HeartBeat,Respire,Location,CollarID,Temperature
+1,2017/2/6,90,30,China,7,36
+2,2017/2/7,90,30,America,5,35.6
+3,2017/2/8,120,35,Africa,6,38
+4,2017/2/9,156,25,China,9,38.2
+5,2017/2/10,42,28,America,10,37
+6,2017/2/11,98,26,Africa,4,36.5
+7,2017/2/12,150,38,China,2,38.2
+8,2017/2/13,29,6,America,1,36
+9,2017/2/14,149,59,Africa,3,37
+10,2017/2/15,125,37,China,8,36.5

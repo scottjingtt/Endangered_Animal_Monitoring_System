@@ -1,0 +1,8 @@
+TypeID,Name,MinWeight,MaxWeight,MinLength,MaxLength,MinTemp,MaxTemp,MinRespire,MaxRespire,MinHeartbeat,MaxHeartbeat,MinBloodpressure,MaxBloodpressure,RunningSpeed
+1,giant panda,100,150,1,2,35,37,20,40,70,150,90,160,30
+2,african elephant,4000,6000,4,8,35.5,38,4,6,25,30,112,187,40
+3,tiger,99,297,1.2,3,36.5,38.5,10,60,70,150,90,160,70
+4,african rhino,675,450,1.2,3,36.6,37.2,16,23,32,42,38,183,60
+5,orangutan,60,90,0.8,1.2,36,37,20,35,80,120,84,160,6
+6,snow leopard,33,52,0.6,1.5,37.5,38.8,20,40,90,250,76,130,88
+7,jaguar,70,107.5,1.2,1.8,37.6,38.6,18,38,110,230,83,140,100
